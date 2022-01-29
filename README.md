@@ -1,11 +1,11 @@
-Tidecoin Core integration/staging tree
+Astatine Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/tidecoin-project/tidecoin.svg?branch=master)](https://travis-ci.org/tidecoin-project/tidecoin)
 
-http://tidecoin.org
+http://astatine.org
 
-What is Tidecoin?
+What is Astatine coin?
 ----------------
 
 Tidecoin is an experimental digital currency that enables instant payments to
